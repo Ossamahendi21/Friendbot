@@ -1,6 +1,6 @@
 # Discord-<h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://images.app.goo.gl/WEk3BDrEPgdjvJ5EA" alt="Red - Discord Bot"></a>
+  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
   <br>
   Red Discord Bot
   <br>
