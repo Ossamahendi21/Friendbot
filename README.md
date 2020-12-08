@@ -13,7 +13,7 @@
     <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
   </a>
   <a href="https://pypi.org/project/friend//">
-     <img alt="PyPI" src="https://img.shields.io/pypi/v/friend-Discordbot">
+     <img alt="PyPI" src="https://img.shields.io/pypi/v/red-Discordbot">
   </a>
   <a href="https://www.python.org/downloads/">
     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Red-Discordbot">
