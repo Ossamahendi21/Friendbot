@@ -29,7 +29,7 @@
   <a href="https://github.com/Oussamahendi21/friend-DiscordBot/actions">
     <img src="https://img.shields.io/github/workflow/status/Cog-Creators/friend-Discordbot/Tests?label=tests" alt="GitHub Actions">
   </a>
-  <a href="http://friend-discordbot.readthedocs.io/en/stable/?badge=stable">
+  <a href="http://red-discordbot.readthedocs.io/en/stable/?badge=stable">
     <img src="https://readthedocs.org/projects/friends-discordbot/badge/?version=stable" alt="Red on readthedocs.org">
   </a>
   <a href="https://github.com/ambv/black">
