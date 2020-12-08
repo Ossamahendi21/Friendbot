@@ -1,6 +1,6 @@
 # Discord-<h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/friend-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="friends- Discord Bot"></a>
+  <a href="https://github.com/Ossamahendi21/friend-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="friends- Discord Bot"></a>
   <br>
   Friend Discord Bot
   <br>
@@ -12,21 +12,21 @@
   <a href="https://discord.gg/8A5T7mD">
     <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
   </a>
-  <a href="https://pypi.org/project/Red-DiscordBot/">
-     <img alt="PyPI" src="https://img.shields.io/pypi/v/Red-Discordbot">
+  <a href="https://pypi.org/project/friend-DiscordBot/">
+     <img alt="PyPI" src="https://img.shields.io/pypi/v/friend-Discordbot">
   </a>
   <a href="https://www.python.org/downloads/">
-    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Red-Discordbot">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/friend-Discordbot">
   </a>
   <a href="https://github.com/Rapptz/discord.py/">
      <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
   </a>
   <a href="https://www.patreon.com/friend_forever">
-    <img src="https://img.shields.io/badge/Support-Red!-red.svg" alt="Support Red on Patreon!">
+    <img src="https://img.shields.io/badge/Support-friend!-friend.svg" alt="Support friend on Patreon!">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Cog-Creators/friend-DiscordBot/actions">
+  <a href="https://github.com/Oussamahendi21/friend-DiscordBot/actions">
     <img src="https://img.shields.io/github/workflow/status/Cog-Creators/friend-Discordbot/Tests?label=tests" alt="GitHub Actions">
   </a>
   <a href="http://friend-discordbot.readthedocs.io/en/stable/?badge=stable">
@@ -38,8 +38,8 @@
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
   </a>
-  <a href="https://crowdin.com/project/red-discordbot">
-    <img src="https://d322cqt584bo4o.cloudfront.net/red-discordbot/localized.svg" alt="Localized with Crowdin">
+  <a href="https://crowdin.com/project/friend-discordbot">
+    <img src="https://d322cqt584bo4o.cloudfront.net/friend-discordbot/localized.svg" alt="Localized with Crowdin">
   </a>
 </p>
 
@@ -48,7 +48,7 @@
   •
   <a href="#installation">Installation</a>
   •
-  <a href="http://red-discordbot.readthedocs.io/en/stable/index.html">Documentation</a>
+  <a href="http://friend-discordbot.readthedocs.io/en/stable/index.html">Documentation</a>
   •
   <a href="#plugins">Plugins</a>
   •
@@ -59,7 +59,7 @@
 
 # Overview
 
-Red is a fully modular bot – meaning all features and commands can be enabled/disabled to your
+Friend is a fully modular bot – meaning all features and commands can be enabled/disabled to your
 liking, making it completely customizable. This is a *self-hosted bot* – meaning you will need
 to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot,
 new best friend or all of these together!  
@@ -94,7 +94,7 @@ community of cog repositories.**
 
 # Plugins
 
-Red is fully modular, allowing you to load and unload plugins of your choice, and install 3rd party
+Friend is fully modular, allowing you to load and unload plugins of your choice, and install 3rd party
 plugins directly from Discord! A few examples are:
 
 - Cleverbot integration (talk to Friend and she talks back)
@@ -106,14 +106,14 @@ plugins directly from Discord! A few examples are:
 - AniList
 - And much, much more!
 
-Feel free to take a [peek](https://index.discord.red) at a list of
+Feel free to take a [peek] at a list of
 available 3rd party cogs!
 
 # Join the community!
 
-**Red** is in continuous development, and it’s supported by an active community which produces new
+**friend** is in continuous development, and it’s supported by an active community which produces new
 content (cogs/plugins) for everyone to enjoy. New features are constantly added. If you can’t
-[find](https://cogboard.red/t/approved-repositories/210) the cog you’re looking for,
+[find](https://cogboard.frind/t/approved-repositories/210) the cog you’re looking for,
 consult our [guide](https://red-discordbot.readthedocs.io/en/stable/guide_cog_creation.html) on
 building your own cogs!
 
@@ -123,11 +123,11 @@ Join us on our [Official Discord Server](https://discord.gg/8A5T7mD)!
 
 Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
-Red is named after the main character of "Transistor", a video game by
+Friend is named after the main character of "Transistor", a video game by
 [Super Giant Games](https://www.supergiantgames.com/games/transistor/).
 
-Artwork created by [Sinlaire](https://sinlaire.deviantart.com/) on Deviant Art for the Red Discord
+Artwork created by [Sinlaire](https://sinlaire.deviantart.com/) on Deviant Art for the Friend Discord
 Bot Project.
 
 This project vendors [discord.ext.menus](https://github.com/Rapptz/discord-ext-menus) package made by Danny Y. (Rapptz) which is distributed under MIT License.
-Copy of this license can be found in [discord-ext-menus.LICENSE](redbot/vendored/discord-ext-menus.LICENSE) file in [redbot/vendored](redbot/vendored) folder of this repository.
+Copy of this license can be found in [discord-ext-menus.LICENSE](friendbot/vendored/discord-ext-menus.LICENSE) file in [redbot/vendored](friendbot/vendored) folder of this repository.
